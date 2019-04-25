@@ -1,0 +1,56 @@
+.goods-1{height:75px; width:100%;  text-align:center; padding-top:135px;}
+    .goods-1 span{color: #ff450e;font-size:20px; line-height:35px; font-weight:700; text-shadow: 0 1px #ffffff, 1px 0 #ffffff, -1px 0 #ffffff, 0 -1px #ffffff;}
+    .goods-11{height:75px; width:100%;  text-align:center; padding-top:10px;}
+    .goods-11 span{color: #ff450e;font-size:20px; line-height:35px; font-weight:700; text-shadow: 0 1px #ffffff, 1px 0 #ffffff, -1px 0 #ffffff, 0 -1px #ffffff;}
+
+    .goods-2{height:100px; width:100%; text-align:center; padding-top:10px;}
+    .goods-2 span{  }
+    .goods-3{height:100px; width:100%; text-align:center; padding-top:30px;}
+    .goods-10{height:80px; width:100%; text-align:center; padding-top:30px;}
+    .goods-4{height:80px; width:100%; text-align:center; padding-top:30px;}
+    .goods-6{height:100px; width:100%; text-align: justify; padding-top:5px;}
+    .maina{width:76%; margin-left:12%;}
+    .main{width:100%;overflow:hidden; margin-bottom:15px;}
+    .left{width:12%; margin-bottom:-9999px;padding-bottom:9999px;float:left;}
+    .right{width:88%;float:left; font-size:3.2vw;   text-align: justify;}
+
+    .footer {
+        position: fixed;
+        left: 0px;
+        bottom: 0px;
+        width: 100%;
+        height: 50px;
+        background-color: #ffffff;
+        z-index: 9999;
+    }
+    li {
+        list-style:none;
+    }
+
+
+    .notice ul,li{margin: 0;padding: 0; }/*先初始化一下默认样式*/
+    .notice {
+        margin-top:10px;
+        margin-left:10px;
+        width: 230px;/*单行显示，超出隐藏*/
+        height: 28px;/*固定公告栏显示区域的高度*/
+        padding: 0 10px;
+        background-color: #ff8605;
+        overflow: hidden;
+        position: absolute; z-index: 10;
+        filter:alpha(Opacity=60);-moz-opacity:0.7;opacity: 0.7;
+        border-radius:15px;
+        box-shadow: #939393 1px 1px 8px 2px ;//边框阴影
+    }
+    .notice ul li {
+        list-style: none;
+        line-height: 28px;
+        /*以下为了单行显示，超出隐藏*/
+        display: block;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        color:#ffffff;
+        font-size:12px;
+        font-weight:700;
+    }

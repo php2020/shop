@@ -1,0 +1,74 @@
+.ey-b-radius {border-radius:5px;}
+
+.ey-width{width:98%;  margin-left:1%;}
+
+.ey-header{height:50px;}
+.ey-user-bg a {color:#ffffff;}
+.ey-header .logo{line-height:50px; color:#ffffff; padding-left:10px;}
+.ey-header .right{line-height:50px; color:#ffffff; float:right; padding-right:10px;}
+.ey-user-bg{background-color:#FFFFFF;background-image:url(./img/user.jpg);background-repeat:repeat;background-position:center 0; background-size:auto;  width:100%;
+    height:100%;
+    background-size:100% 100%;}
+/* é¢æ¿ */
+.ey-panel{margin-bottom:5px;  border-radius: 2px; background-color: #fff; box-shadow: 0 1px 2px 0 rgba(0,0,0,.05);}
+
+.ey-panel-title{  background-color: #fff; position: relative; height: 50px; line-height: 50px; padding: 0 15px; border-bottom: 1px dotted #E9E9E9; color: #333; border-radius: 2px 2px 0 0; font-size: 14px;}
+
+.ey-p-t{  background-color: #fff; position: relative;   border-bottom: 1px dotted #E9E9E9; color: #333; border-radius: 2px 2px 0 0; font-size: 14px;}
+
+.ey-p-to{    background-color: #fff; position: relative; height: 35px; line-height: 35px; padding: 0 15px; border-bottom: 1px dotted #E9E9E9; color: #333; border-radius: 2px 2px 0 0; font-size: 14px;}
+
+
+.layui-form-l {line-height: 38px; float:left; padding-left:15px;}
+.ey-panel-title .right{line-height:50px;   float:right;}
+/* å¤´åƒ */
+.ey-avatar{position: absolute; left: 10px; top: 20px;}
+.ey-avatar img{display: block; width: 55px; height: 55px; margin: 0; border-radius: 50%;}
+
+.ey-avataro{position: absolute; left: 10px; top: 20px;}
+.ey-avataro img{display: block; width: 55px; height: 55px; margin: 0; }
+
+.ey-panel-tt{margin-top:5px; background-color:#ffffff; padding:10px; line-height:30px;}
+/* åˆ—è¡¨ */
+.ey-list li{position: relative; height: 75px; line-height: 30px; padding: 20px 10px 10px 75px; border-bottom: 1px dotted #e2e2e2;}
+.ey-list li:last-child{border-bottom: none;}
+.ey-list li h2,
+.ey-list li h2 a,
+.ey-list-info{white-space: nowrap; overflow: hidden; text-overflow: ellipsis;}
+.ey-list li h2{height:30px; font-size: 0;}
+.ey-list li h2 a{display: inline-block; max-width: 80%; padding-right: 10px; font-size: 16px;}
+
+.ey-list-info{position: relative; font-size: 12px; color: #999;}
+.ey-list-info>*{padding-right: 15px;}
+.ey-list-info a[link]{color: #999;}
+.ey-list-info a[link]:hover{color: #5FB878;}
+.ey-tishi{ background-color: #ffffff; padding:10px;}
+.ey-tishi-1{ padding:10px; background-color: #009688; letter-spacing:2px; color:#ffffff; border-radius:3px;}
+.ey-tishi-2{ padding:10px; background-color: #FF5722; letter-spacing:2px; color:#ffffff; border-radius:3px;}
+
+.ey-center img{width:98%; margin-left:1%; padding:1%;  box-sizing:border-box; }
+
+.ey-details { width:100%;}
+
+.ey-d { background-color: #ffffff; padding:10px;}
+.ey-d-title { background-color: #ffffff; padding:10px;}
+.ey-d-title  h2{font-size:16px;}
+.ey-d-title  p{font-size:14px; line-height:18px; margin-top:10px;}
+.grid-demo1{padding: 10px; margin-bottom:5px;  line-height: 30px; text-align: center; background-color: #ffffff; color: #2c2c2c;}
+.grid-demo-bg11{box-sizing:border-box; border-right:4px solid #F2F2F2;}
+.grid-demo2{margin-top:4px; padding: 5px; line-height: 30px; text-align: center;font-size:15px; background-color: #ffffff; color: #2c2c2c;}
+.grid-demo-bg21{background-color: #ffffff; box-sizing:border-box; border-right:4px solid #F2F2F2; }
+
+.grid-demo3{padding: 6px; margin-bottom:5px;  line-height: 24px; text-align: center; background-color: #ffffff; color: #2c2c2c;}
+.grid-demo-bg31{background-color: #ffffff; box-sizing:border-box; border-right:4px solid #F2F2F2;}
+
+.grid-demo4{padding: 6px; margin-bottom:5px;  line-height: 24px; text-align: center; background-color: #ffffff; color: #2c2c2c;}
+.grid-demo-bg41{background-color: #ffffff; box-sizing:border-box;}
+.grid-demo-bg41 img{margin:15px 0px 15px 0px; border:1px solid #F2F2F2; box-sizing:border-box;}
+
+.grid-demo0{padding: 5px 10px 5px 10px; line-height: 30px; text-align: center; background-color: #ffffff; color: #009688;}
+
+
+.fly-footer {margin: 15px 0 0; padding: 20px 0 10px; line-height: 30px; text-align: center; color: #737573; border-top:1px solid #e2e2e2;}
+.fly-footer a{padding:0 6px; font-weight: 500; color: #009688;}
+.fly-footer a:hover{color: #009688;}
